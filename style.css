@@ -1,0 +1,10 @@
+        /* CSS 選擇器 */
+        /* 標籤名稱 選擇器 */
+        body{background-color:rgb(199, 194, 194);font-family:"華康少女體","標楷體","新細明體"}
+        /* ID 選擇器 */
+        #del{text-decoration:line-through;}
+        /* Class 選擇器 */
+        .title{font-size:24px;font-weight:bold;color:rgb(27, 41, 189)}
+        .content{height:40px;width:500px;margin-top:10px;border:1px solid rgb(0, 4, 255);padding:10px}
+        .keyword{display:inline;color:rgb(255, 0, 0)}
+        .underline{text-decoration:underline}
